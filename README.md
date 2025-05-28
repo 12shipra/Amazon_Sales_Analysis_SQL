@@ -1,4 +1,4 @@
-# Amazon Sales Analysis Using SQL
+# Amazon Sales Analysis Using MYSQL
 
 ##  Project Description
 Developed a complete SQL-based data analysis project to explore and evaluate Amazon's retail sales data. The project involved:
