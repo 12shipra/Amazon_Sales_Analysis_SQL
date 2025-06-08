@@ -82,3 +82,11 @@ This analysis provided a data-driven perspective on Amazon’s retail performanc
 - **Customer Satisfaction:**  
   Home and Lifestyle and Electronic Accessories had the highest average ratings.
 
+  S.No,Challenge Title,Description
+1,Data Cleaning,"I had to properly format the date and time columns before starting the analysis, especially for creating time-based insights."
+2,Missing Feature Columns in Raw Data,"The raw dataset didn’t include columns like Time_of_day, Day_name, and Month_name, so I created them using SQL."
+3,Time Column Complexity,"The time column was in a complex timestamp format, so I manually converted it into readable time slots like morning, afternoon, and evening."
+4,Lack of Product IDs,"The products were listed only by name (text), which made it harder to group or analyze categories efficiently."
+5,Manually Defined Time Slots,"I used fixed time ranges (e.g., 12 PM–4 PM as 'Afternoon'), which may not exactly match real customer behavior patterns."
+
+
